@@ -1,0 +1,7 @@
+{
+    "limite_inferior": 10,
+    "limite_superior": 90,
+    "probabilidad_correcto": 0.7,
+    "probabilidad_fuera_de_rango": 0.2,
+    "probabilidad_erroneo": 0.1
+}
